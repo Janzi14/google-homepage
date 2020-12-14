@@ -1,0 +1,1 @@
+A quick project to refresh the front-end basics
